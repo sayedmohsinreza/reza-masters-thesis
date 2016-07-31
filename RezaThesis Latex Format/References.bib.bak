@@ -1,0 +1,288 @@
+%% You don't have to leave blank fields, but it doesn't hurt.
+%% We've left them here to show you what you can enter.
+%
+%@article{ref1,
+% author = {Ahamed, V.I. Thajudin and Karthick, N. G. and Joseph, Paul K.},
+% title = {Effect of mobile phone radiation on heart rate variability},
+% journal = {Comput. Biol. Med.},
+% volume = {38},
+% issue = {6},
+% month = {June},
+% year = {2008},
+% issn = {0010-4825},
+% pages = {709--712},
+% numpages = {4},
+% url = {http://dl.acm.org/citation.cfm?id=1379910.1380157},
+% doi = {10.1016/j.compbiomed.2008.03.004},
+% acmid = {1380157},
+% publisher = {Pergamon Press, Inc.},
+% address = {Elmsford, NY, USA},
+% keywords = {Health, Heart rate variability, Mobile phone, Neurological effect, Sample entropy, Scaling exponent},
+%}
+%
+
+
+@article{ref2,
+  AUTHOR =       {OpenConf},
+  TITLE =        {Documentation},
+  JOURNAL =      {http://www.openconf.com/support/},
+  YEAR =         {2014},
+  volume =       { },
+  number =       { },
+  month =        { 7 January},
+}
+@article{ref3,
+  author ={Open Conference System},
+  title = {OCS Documentation},
+  journal = {https://pkp.sfu.ca/ocs/},
+  year = {2014},
+  volume = {},
+  number = { },
+  month = {8 March},
+}
+
+@article{ref4,
+  author ={EasyChair},
+   title = {EasyChair Conference},
+   journal = {http://www.easychair.org/},
+  year = {2014},
+  volume = {},
+  number = { },
+  month = {8 March},
+}
+@article{ref5,
+  author ={W3school},
+  title = {PHP 5 Functions},
+  journal = {http://www.w3schools.com/php/},
+  year = {2014},
+  volume = {},
+  number = { },
+  month = { 1 February},
+}
+
+@article{ref6,
+  author ={Lynda},
+  title = {MVC Frameworks for Building PHP Web Applications},
+  journal = {https://Lynda.com},
+  year = {2014},
+  volume = {},
+  number = { },
+  month = {8 March},
+}
+@article{ref7,
+  author ={CMT},
+  title = {Microsoft’s Academic Conference Management Service},
+  journal = {http://cmt.research.microsoft.com/cmt/},
+  year = {2017},
+  volume = {},
+  number = { },
+  month = { 1 February},
+  }
+%
+%@article{ref3,
+%  AUTHOR =       {Kaiser, M Shamim and Ahmed,Kazi M},
+%  TITLE =        {Radio Resource Allocation for Heterogeneous Services in Relay Enhanced OFDMA Systems},
+%  JOURNAL =      {Journal of Communications},
+%  YEAR =         {2010},
+%  volume =       {5},
+%  number =       {6},
+%  month =        {June},
+%  }
+
+
+%
+%@article{ref5,
+%  author = {Ahmed, Mohamed Hossam and  Anpalagan,Alagan and  Chen,Kwang-Cheng and Han, Zhu and Hossain, Ekram },
+%  year = {2009},
+%  title = {Fairness in Radio Resource Management for Wireless Networks},
+%  journal = {EURASIP Journal on Wireless Communications and Networking},
+%  year = {2009},
+%}
+%
+%@article{ref6,
+%  author ={Wikipedia},
+%  year = {2011},
+%  title = {Max-Min Fairness},
+%  journal = {http://en.wikipedia.org/wiki/},
+%  volume = {},
+%}
+%
+%@article{ref7,
+%  author ={JEAN-YVES LE BOUDEC},
+%  year = {2009},
+%  title = {Rate Adaptation, Congestion Control and Fairness: A Tutorial},
+%  journal = {EPFL Lausanne},
+%  %volume = {2009},
+%  }
+%
+%@conference{ref8,
+%  author =       {A. Stolyar and H. Viswanathan},
+%  title =        {Self-Organizing Dynamic Fractional Frequency Reuse in OFDMA Systems,},
+%  booktitle =    {IEEE Conference on Computer Communications},
+%  year =         {2008}
+%%  volume =       {2008}
+%  pages  =       {691-699},
+%
+%}
+%
+%@article{ref9,
+%  AUTHOR =       {E. Elayoubi and O. Ben Haddada and B. Fourestie},
+%  TITLE =        {Performance Evaluation of Frequency Planning Schemes in OFDMA-based Networks},
+%  JOURNAL =      {IEEE Transactions on Wireless Communications},
+%  YEAR =         {2008},
+%  volume =       {7},
+%  pages =        {1623-1633},
+%  month =        {May},
+%
+%}
+%@article{ref10,
+%  AUTHOR =       { M. Assaad and A. Mourad},
+%  TITLE =        {New Frequency-Time Scheduling Algorithms for 3GPP/LTE-like OFDMA Air Interface in the Downlink},
+%  JOURNAL =      {IEEE VTC Spring 2008},
+%  YEAR =         {2008},
+%  pages =        {1964-1969},
+%
+%}
+%@article{ref11,
+%  AUTHOR =       {M. C. Necker},
+%  TITLE =        {Local Interference Coordination in Cellular OFDMA Networks},
+%  JOURNAL =      {IEEE VTC (F)'07},
+%  YEAR =         {2007},
+%  pages =        {1741-1746},
+%  month =        {September},
+%
+%}
+%@article{ref12,
+%  AUTHOR =       {A.Simonsson},
+%  TITLE =        {Frequency Reuse and Intercell Interference Co-Ordination in E-UTRA,},
+%  JOURNAL =      {IEEE VTC(S)'07},
+%  YEAR =         {2007},
+%  pages =        {3091-3095},
+%  month =        {April},
+%
+%}
+%
+%
+%@article{ ref13,
+%  author = {Juang,Rong-Terng and Ting,Pangan and Lin,Hsin-Piao and Lin,Ding-Bing },
+%  year = {2010},
+%  title = { Interference Management of Femtocell in Macrocellular Networks },
+%  journal = { Wireless Telecommunications Symposium (WTS), 2010 },
+%  volume = {},
+%}
+%
+%
+%
+%@article{ref14,
+%  AUTHOR =       {V. Chandrasekhar and J. Andrews and A. Gatherer},
+%  TITLE =        {Femtocell Networks: A Survey},
+%  JOURNAL =      {IEEE Communications Magazine},
+%  YEAR =         {2008},
+%  volume =       {46},
+%  pages =        {59-67},
+%  month =        {September},
+%
+%}
+%@article{ref15,
+%  AUTHOR =       {V. Pauli and J. D. Naranjo and E. Seidel},
+%  TITLE =        {Heterogeneous LTE Networks and Inter-Cell Interference Coordination},
+%  JOURNAL =      {Nomor Research},
+%  YEAR =         {2010},
+%  month =        {December},
+%  }
+%
+%@article{ref16,
+%  author = {Xiaoli Chu and Yuhua Wu and Benmesbah,Lamia and Ling,Wing-Kuen},
+%  year = {2010},
+%  title = {Fairness Resource Allocation in Hybrid Macro/Femto Networks},
+%  journal = {IEEE},
+%  volume = {},
+%}
+%@article{ref17,
+%  author = {Wikipedia},
+%  year = {2011},
+%  title = {OFDMA},
+%  journal = {http://en.wikipedia.org/wiki/ },
+%  volume = {},
+%}
+%
+%
+%@article{ref18,
+%  AUTHOR =       {Yin,Hujun and Alamouti,Siavash},
+%  TITLE =        {OFDMA: A Broadband Wireless Access Technology},
+%  JOURNAL =      {IEEE Proc. of Sarnoff Symposium},
+%  YEAR =         {2006},
+%
+%}
+%
+%@article{ref20,
+%  author = {IEEE 802.16m-07/002r4},
+%  year = {2011},
+%  title = {TGm System Requirements Document (SRD)},
+%  journal = { approved 19 Oct 2007 },
+%  volume = {},
+%}
+%
+%
+%@article{ref21,
+%  AUTHOR =       {Yeh,S. and Talwar,S. and Lee,S. and Kim,H.},
+%  TITLE =        {WiMAX Femtocells: A Perspective on Network Architecture, Capacity, and Coverage},
+%  JOURNAL =      {IEEE Communications Magazine},
+%  YEAR =         {2008},
+%  volume =       {46},
+%  pages =        {58-65},
+%  month =        {October},
+%}
+%
+%@article{ref22,
+%  AUTHOR =       {Zhou,Zhenyu and Sato,Takuro},
+%  TITLE =        {A Single Antenna Interference Cancellation Algorithm for OFDM Communication Systems},
+%  JOURNAL =      {Graduate School of Global Information and Telecommunication Studies},
+%  year =       {Waseda University},
+%  }
+%
+%@article{ref23,
+%  AUTHOR =       {Xing Zhang and Shuping Chen and Wenbo Wang},
+%  TITLE =        {Multiuser Radio Resource Allocation for Multiservice Transmission in OFDMA-Based Cooperative Relay
+%  Networks},
+%  JOURNAL =      {EURASIP Journal on Wireless Communications and Networking},
+%  YEAR =         {2009},
+%  volume =       {2009},
+%  month =        {October},
+%}
+%
+%
+%
+%@inproceedings{ref25,
+%    author = {Wei Yu and Cioffi,John M.},
+%    title = {On Constant Power Water-filling},
+%    booktitle = {IEEE ICC},
+%    year = {2001},
+%    pages = {1665--1669}
+%}
+%
+%@article{ref26,
+%  AUTHOR =       {Flanagan,Mark and Fagan,Anthony D.},
+%  TITLE =        {A Simple Proof of the Water Filling Theorem for Multichannel Modulation},
+%  JOURNAL =      {Department of Electronic and Electrical Engineering University College Dublin, Bel
+%eld, Dublin 4},
+%  year = {2003},
+%  month = {July},
+%}
+%
+%@article{ref27,
+%  AUTHOR =       {Hao Zou and Aakanksha Chowdhery and Cioffi,John M.},
+%  TITLE =        {A Centralized Multi-Level Water-Filling Algorithm for Dynamic Spectrum Management,},
+%  JOURNAL =      {Stanford University Department of Electrical Engineering Stanford, CA 94305 USA},
+%  year = {2010},
+%
+%}
+%@article{
+%Birdetal2001,
+%Author = {Bird, R. B. and Smith, E. A. and Bird, D. W.},
+%Title = {The hunting handicap: costly signaling in human
+%foraging strategies},
+%Journal = {Behavioral Ecology and Sociobiology},
+%Volume = {50},
+%Pages = {9-19},
+%Year = {2001} }

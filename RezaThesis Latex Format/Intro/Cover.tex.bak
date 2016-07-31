@@ -1,0 +1,51 @@
+% Follow This Example:
+
+\newpage
+\begin{singlespace}
+\addcontentsline{toc}{section}{Title Page}
+%=============================================== Title of your Report==========================================
+\begin{center}
+	\uppercase{\textbf \Large{
+		POWER ALLOCATION FOR THE NETWORK CODED COGNITIVE COOPERATIVE NETWORK \\
+	}}
+%==================use \\ for the new line========================================================================	 
+	\vspace{3em}
+
+	by
+
+	\vspace{3em}
+	Major Awal Uddin Ahmed (ID: 1003)\\
+	Major Md Shariful Islam(ID: 1004)\\
+	Major K M Hasnut Zamil (ID: 1006)
+	
+
+	\vspace{4em}
+	
+	A Project Report submitted to the department of
+Electrical Electronic and Communication Engineering,
+in partial fulfillment of the requirements for the degree of\\
+	Bachelor of Science in\\
+	
+
+	Electrical Electronics and Communication Engineering
+		\vspace{8em}
+	
+	\begin{tabular}{rl}
+		Thesis Supervisor:	& Dr. M. Shamim Kaiser \\[-0.8em]
+															
+		
+	\end{tabular}
+	
+\vfill
+	
+	\begin{figure}[ht]
+	\centering
+		\includegraphics[scale=0.4]{JU-logo}
+\end{figure}
+\par
+
+	Military Institute of Science and Technology \\
+	Mirpur Cantonment, Dhaka \\
+	December 2008 \\
+\end{center}
+\end{singlespace} 

@@ -1,0 +1,54 @@
+
+\chapter{System Process Diagram}
+
+
+
+
+\section{Sequence Diagram}
+ProConf helps to manage the people involved in organizing a conference,track chair or co-chair or member,reviewers and authors, notifying readers and registered participants and assisting with the correspondence.In sequence diagram,chair create conference website,assign reviewer,assign track chair or co-chair or member,accept or reject paper,sent email to the people involved in organizing a conference
+
+\begin{figure}[h!]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=6in,height=5in]{pic/seq1}
+   \caption{Sequence Diagram}\label{sequence}
+\end{figure}
+
+\section{Use Case Study}
+\begin{figure}[h!]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=6in,height=7in]{pic/ucase}
+  \caption{Use Case Study}\label{use}
+\end{figure}
+\section{Activity Diagram}
+\subsection{Activity Diagram of Chair’s}
+
+\begin{figure}[h!]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=6in,height=7in]{pic/acc}
+  \caption{Activity diagram of chair’s}\label{activityc}
+\end{figure}
+
+\subsection{Activity Diagram of Author’s}
+
+\begin{figure}[h!]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=6in,height=7in]{pic/aca}
+  \caption{Activity diagram of  author’s}\label{activitya}
+\end{figure}
+
+\section{Collaboration  Diagram for Author}
+\begin{figure}[h!]
+\centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=6in,height=5in]{pic/collauthor}
+  \caption{Collaboration  diagram}\label{collaboration}
+\end{figure}
+
+
+
+
+

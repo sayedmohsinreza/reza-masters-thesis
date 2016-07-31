@@ -1,0 +1,126 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: plain.bst
+Illegal, another \bibstyle command---line 105 of file thesis.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: References.bib
+You're missing a field name---line 5 of file References.bib
+ : 
+ : % author = {Ahamed, V.I. Thajudin and Karthick, N. G. and Joseph, Paul K.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 72 of file References.bib
+ : %@article{ref3
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 84 of file References.bib
+ : %@article{ref5
+ :               ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 93 of file References.bib
+ : 
+ : %  author ={Wikipedia},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 101 of file References.bib
+ : 
+ : %  author ={JEAN-YVES LE BOUDEC},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 109 of file References.bib
+ : 
+ : %  author =       {A. Stolyar and H. Viswanathan},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 119 of file References.bib
+ : 
+ : %  AUTHOR =       {E. Elayoubi and O. Ben Haddada and B. Fourestie},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 129 of file References.bib
+ : 
+ : %  AUTHOR =       { M. Assaad and A. Mourad},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 137 of file References.bib
+ : 
+ : %  AUTHOR =       {M. C. Necker},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 146 of file References.bib
+ : 
+ : %  AUTHOR =       {A.Simonsson},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 157 of file References.bib
+ : 
+ : %  author = {Juang,Rong-Terng and Ting,Pangan and Lin,Hsin-Piao and Lin,Ding-Bing },
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 167 of file References.bib
+ : 
+ : %  AUTHOR =       {V. Chandrasekhar and J. Andrews and A. Gatherer},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 177 of file References.bib
+ : 
+ : %  AUTHOR =       {V. Pauli and J. D. Naranjo and E. Seidel},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 185 of file References.bib
+ : 
+ : %  author = {Xiaoli Chu and Yuhua Wu and Benmesbah,Lamia and Ling,Wing-Kuen},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 192 of file References.bib
+ : 
+ : %  author = {Wikipedia},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 201 of file References.bib
+ : 
+ : %  AUTHOR =       {Yin,Hujun and Alamouti,Siavash},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 209 of file References.bib
+ : 
+ : %  author = {IEEE 802.16m-07/002r4},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 218 of file References.bib
+ : 
+ : %  AUTHOR =       {Yeh,S. and Talwar,S. and Lee,S. and Kim,H.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 228 of file References.bib
+ : 
+ : %  AUTHOR =       {Zhou,Zhenyu and Sato,Takuro},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 235 of file References.bib
+ : 
+ : %  AUTHOR =       {Xing Zhang and Shuping Chen and Wenbo Wang},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 247 of file References.bib
+ : 
+ : %    author = {Wei Yu and Cioffi,John M.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 255 of file References.bib
+ : 
+ : %  AUTHOR =       {Flanagan,Mark and Fagan,Anthony D.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 264 of file References.bib
+ : 
+ : %  AUTHOR =       {Hao Zou and Aakanksha Chowdhery and Cioffi,John M.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 272 of file References.bib
+ : 
+ : %Author = {Bird, R. B. and Smith, E. A. and Bird, D. W.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 25 error messages)

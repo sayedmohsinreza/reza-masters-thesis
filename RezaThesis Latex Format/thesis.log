@@ -1,0 +1,985 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.14)  21 MAY 2016 22:21
+entering extended mode
+**thesis.tex
+
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\thesis.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\rac.sty"
+ 
+Substyle `rac' for Rackham dissertation.
+ 
+\c@map=\count88
+)
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\aas_macros.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks15
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsxtra.sty"
+Package: amsxtra 1999/11/15 v1.2c
+LaTeX Info: Redefining \nobreakspace on input line 77.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\classes\amsthm.sty"
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count102
+\rotFPtop=\skip49
+\rotFPbot=\skip50
+\rot@float@box=\box28
+\rot@mess@toks=\toks26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mdframed\mdframed.sty"
+Package: mdframed 2012/09/21\ 1.6d: mdframed
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3names.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3bootstrap.sty"
+Package: l3bootstrap 2012/07/16 v3991 L3 Experimental bootstrap code
+)
+Package: l3names 2012/09/24 v4230 L3 Namespace for primitives
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count103
+)
+Package: expl3 2012/09/29 v4249 L3 Experimental code bundle wrapper
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3basics.sty"
+Package: l3basics 2012/09/09 v4212 L3 Basic definitions
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3expan.sty"
+Package: l3expan 2012/08/28 v4149 L3 Argument expansion
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3tl.sty"
+Package: l3tl 2012/09/28 v4244 L3 Token lists
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3seq.sty"
+Package: l3seq 2012/09/09 v4212 L3 Sequences and stacks
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3int.sty"
+Package: l3int 2012/09/26 v4237 L3 Integers
+\c_max_int=\count104
+\l_tmpa_int=\count105
+\l_tmpb_int=\count106
+\g_tmpa_int=\count107
+\g_tmpb_int=\count108
+\l_tmpc_int=\count109
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3quark.sty"
+Package: l3quark 2012/08/08 v4065 L3 Quarks
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3prg.sty"
+Package: l3prg 2012/09/09 v4212 L3 Control structures
+\g__prg_map_int=\count110
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3clist.sty"
+Package: l3clist 2012/09/09 v4212 L3 Comma separated lists
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3token.sty"
+Package: l3token 2012/08/08 v4069 L3 Experimental token manipulation
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3prop.sty"
+Package: l3prop 2012/09/09 v4212 L3 Property lists
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3msg.sty"
+Package: l3msg 2012/09/09 v4212 L3 Messages
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3file.sty"
+Package: l3file 2012/09/09 v4212 L3 File and I/O operations
+\l__ior_stream_int=\count111
+\l_iow_line_count_int=\count112
+\l__iow_target_count_int=\count113
+\l__iow_current_line_int=\count114
+\l__iow_current_word_int=\count115
+\l__iow_current_indentation_int=\count116
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3skip.sty"
+Package: l3skip 2012/09/26 v4235 L3 Dimensions and skips
+\l_tmpa_dim=\dimen114
+\l_tmpb_dim=\dimen115
+\g_tmpa_dim=\dimen116
+\g_tmpb_dim=\dimen117
+\l_tmpa_skip=\skip51
+\l_tmpb_skip=\skip52
+\g_tmpa_skip=\skip53
+\g_tmpb_skip=\skip54
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3keys.sty"
+Package: l3keys 2012/09/29 v4248 L3 Experimental key-value interfaces
+\g__keyval_level_int=\count117
+\l_keys_choice_int=\count118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3fp.sty"
+Package: l3fp 2012/09/26 v4234 L3 Floating points
+\c__fp_leading_shift_int=\count119
+\c__fp_middle_shift_int=\count120
+\c__fp_trailing_shift_int=\count121
+\c__fp_big_leading_shift_int=\count122
+\c__fp_big_middle_shift_int=\count123
+\c__fp_big_trailing_shift_int=\count124
+\c__fp_Bigg_leading_shift_int=\count125
+\c__fp_Bigg_middle_shift_int=\count126
+\c__fp_Bigg_trailing_shift_int=\count127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3box.sty"
+Package: l3box 2012/07/16 v3991 L3 Experimental boxes
+\l_tmpb_box=\box29
+\g_tmpa_box=\box30
+\g_tmpb_box=\box31
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3coffins.sty"
+Package: l3coffins 2012/09/09 v4212 L3 Coffin code layer
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen118
+\l__coffin_offset_x_dim=\dimen119
+\l__coffin_offset_y_dim=\dimen120
+\l__coffin_x_dim=\dimen121
+\l__coffin_y_dim=\dimen122
+\l__coffin_x_prime_dim=\dimen123
+\l__coffin_y_prime_dim=\dimen124
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen125
+\l__coffin_display_x_dim=\dimen126
+\l__coffin_display_y_dim=\dimen127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3color.sty"
+Package: l3color 2012/08/29 v4156 L3 Experimental color support
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3luatex.sty"
+Package: l3luatex 2012/08/03 v4049 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count128
+\g__cctab_stack_int=\count129
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3candidates.sty"
+Package: l3candidates 2012/05/12 v3633 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen128
+\l__box_bottom_dim=\dimen129
+\l__box_left_dim=\dimen130
+\l__box_right_dim=\dimen131
+\l__box_top_new_dim=\dimen132
+\l__box_bottom_new_dim=\dimen133
+\l__box_left_new_dim=\dimen134
+\l__box_right_new_dim=\dimen135
+\l__box_internal_box=\box41
+\l__coffin_bounding_shift_dim=\dimen136
+\l__coffin_left_corner_dim=\dimen137
+\l__coffin_right_corner_dim=\dimen138
+\l__coffin_bottom_corner_dim=\dimen139
+\l__coffin_top_corner_dim=\dimen140
+\l__coffin_scaled_total_height_dim=\dimen141
+\l__coffin_scaled_width_dim=\dimen142
+))
+Package: xparse 2012/09/29 v4249 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count130
+\l__xparse_m_args_int=\count131
+\l__xparse_mandatory_args_int=\count132
+\l__xparse_processor_int=\count133
+\l__xparse_v_nesting_int=\count134
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count135
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-abspage.sty"
+Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-base.sty"
+Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+\c@abspage=\count136
+Package zref Info: New property: abspage on input line 62.
+)
+\mdf@templength=\skip55
+\c@mdf@globalstyle@cnt=\count137
+\mdf@skipabove@length=\skip56
+\mdf@skipbelow@length=\skip57
+\mdf@leftmargin@length=\skip58
+\mdf@rightmargin@length=\skip59
+\mdf@innerleftmargin@length=\skip60
+\mdf@innerrightmargin@length=\skip61
+\mdf@innertopmargin@length=\skip62
+\mdf@innerbottommargin@length=\skip63
+\mdf@splittopskip@length=\skip64
+\mdf@splitbottomskip@length=\skip65
+\mdf@outermargin@length=\skip66
+\mdf@innermargin@length=\skip67
+\mdf@linewidth@length=\skip68
+\mdf@innerlinewidth@length=\skip69
+\mdf@middlelinewidth@length=\skip70
+\mdf@outerlinewidth@length=\skip71
+\mdf@roundcorner@length=\skip72
+\mdf@footenotedistance@length=\skip73
+\mdf@userdefinedwidth@length=\skip74
+\mdf@frametitleaboveskip@length=\skip75
+\mdf@frametitlebelowskip@length=\skip76
+\mdf@frametitlerulewidth@length=\skip77
+\mdf@frametitleleftmargin@length=\skip78
+\mdf@frametitlerightmargin@length=\skip79
+\mdf@shadowsize@length=\skip80
+\mdf@extratopheight@length=\skip81
+\mdf@subtitleabovelinewidth@length=\skip82
+\mdf@subtitlebelowlinewidth@length=\skip83
+\mdf@subtitleaboveskip@length=\skip84
+\mdf@subtitlebelowskip@length=\skip85
+\mdf@subtitleinneraboveskip@length=\skip86
+\mdf@subtitleinnerbelowskip@length=\skip87
+\mdf@subsubtitleabovelinewidth@length=\skip88
+\mdf@subsubtitlebelowlinewidth@length=\skip89
+\mdf@subsubtitleaboveskip@length=\skip90
+\mdf@subsubtitlebelowskip@length=\skip91
+\mdf@subsubtitleinneraboveskip@length=\skip92
+\mdf@subsubtitleinnerbelowskip@length=\skip93
+\mdf@frametitlebox=\box42
+\mdf@footnotebox=\box43
+\mdf@splitbox@one=\box44
+\mdf@splitbox@two=\box45
+\mdf@splitbox@save=\box46
+\mdfsplitboxwidth=\skip94
+\mdfsplitboxtotalwidth=\skip95
+\mdfsplitboxheight=\skip96
+\mdfsplitboxdepth=\skip97
+\mdfsplitboxtotalheight=\skip98
+\mdfframetitleboxwidth=\skip99
+\mdfframetitleboxtotalwidth=\skip100
+\mdfframetitleboxheight=\skip101
+\mdfframetitleboxdepth=\skip102
+\mdfframetitleboxtotalheight=\skip103
+\mdffootnoteboxwidth=\skip104
+\mdffootnoteboxtotalwidth=\skip105
+\mdffootnoteboxheight=\skip106
+\mdffootnoteboxdepth=\skip107
+\mdffootnoteboxtotalheight=\skip108
+\mdftotallinewidth=\skip109
+\mdfboundingboxwidth=\skip110
+\mdfboundingboxtotalwidth=\skip111
+\mdfboundingboxheight=\skip112
+\mdfboundingboxdepth=\skip113
+\mdfboundingboxtotalheight=\skip114
+\mdf@freevspace@length=\skip115
+\mdf@horizontalwidthofbox@length=\skip116
+\mdf@verticalmarginwhole@length=\skip117
+
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newmdtheoremenv with arg. spec. 'O{} m o m o ' on
+. line 546.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \mdtheorem with arg. spec. ' O{} m o m o ' on line
+. 637.
+.................................................
+("C:\Program Files\MiKTeX 2.9\tex\latex\mdframed\md-frame-0.mdf"
+File: md-frame-0.mdf 2012/09/21\ 1.6d: md-frame-0
+)
+\c@mdf@zref@counter=\count138
+Package zref Info: New property: mdf@pagevalue on input line 830.
+\mdf@horizontalspaceofbox=\skip118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen143
+\epsfysize=\dimen144
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip119
+\subfigcapskip=\skip120
+\subfigcaptopadj=\dimen145
+\subfigbottomskip=\skip121
+\subfigcapmargin=\dimen146
+\subfiglabelskip=\skip122
+\c@subfigure=\count139
+\c@lofdepth=\count140
+\c@subtable=\count141
+\c@lotdepth=\count142
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip123
+\subfig@bottom=\skip124
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read1
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip125
+\bibsep=\skip126
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count143
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\acronym\acronym.sty"
+Package: acronym 2012/09/04 v1.37 Support for acronyms (Tobias Oetiker)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty"
+Package: suffix 2006/07/15 1.5 Variant command support
+)
+\AC@clearlist=\toks29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithm2e\algorithm2e.sty"
+Package: algorithm2e 2008/00/00 v3.10 algorithms environments
+\c@AlgoLine=\count144
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 4.01 -- december 14 2009 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip127
+\skiplinenumber=\skip128
+\skiprule=\skip129
+\skiphlne=\skip130
+\skiptext=\skip131
+\skiplength=\skip132
+\algomargin=\skip133
+\skipalgocfslide=\skip134
+\algowidth=\dimen147
+\inoutsize=\dimen148
+\inoutline=\dimen149
+\interspacetitleruled=\dimen150
+\interspacealgoruled=\dimen151
+\interspacetitleboxruled=\dimen152
+\algocf@inoutbox=\box47
+\algocf@inputbox=\box48
+\AlCapSkip=\skip135
+\AlCapHSkip=\skip136
+\algocf@nlbox=\box49
+\algocf@hangingbox=\box50
+\algocf@capbox=\box51
+\algoheightruledefault=\skip137
+\algoheightrule=\skip138
+\algotitleheightruledefault=\skip139
+\algotitleheightrule=\skip140
+\c@algocfline=\count145
+\c@algocfproc=\count146
+\c@algocf=\count147
+\algocf@algoframe=\box52
+\algocf@algobox=\box53
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen153
+\nom@tempdim=\dimen154
+\nomitemsep=\skip141
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+)
+\@nomenclaturefile=\write3
+
+Writing nomenclature file thesis.nlo
+\c@theorem=\count148
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen155
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen156
+\extrarowheight=\dimen157
+\NC@list=\toks30
+\extratabsurround=\skip142
+\backup@length=\skip143
+)
+\everycr=\toks31
+\minrowclearance=\skip144
+)
+LaTeX Info: Redefining \color on input line 702.
+\rownum=\count149
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box54
+\UL@hyphenbox=\box55
+\UL@skip=\skip145
+\UL@hook=\toks32
+\UL@height=\dimen158
+\UL@pe=\count150
+\UL@pixel=\dimen159
+\ULC@box=\box56
+Package: ulem 2012/05/18
+\ULdepth=\dimen160
+)
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\thesis.aux"
+
+LaTeX Warning: Label `activitya' multiply defined.
+
+
+LaTeX Warning: Label `chap:Particles' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count151
+\scratchdimen=\dimen161
+\scratchbox=\box57
+\nofMPsegments=\count152
+\nofMParguments=\count153
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count154
+\MPscratchDim=\dimen162
+\MPnumerator=\count155
+\makeMPintoPDFobject=\count156
+\everyMPtoPDFconversion=\toks34
+)
+\AtBeginShipoutBox=\box58
+ <JU-logo.png, id=1, 277.035pt x 326.21875pt>
+File: JU-logo.png Graphic file (type png)
+ <use JU-logo.png>
+Package pdftex.def Info: JU-logo.png used on input line 121.
+(pdftex.def)             Requested size: 55.406pt x 65.24258pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <G:/Proshanti 2015/Study/M
+SC/Final Thesis [Sayed Mohsin Reza]/Thesis Latex format/RezaThesis Latex Format
+/JU-logo.png>]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\Intro/declaration.tex"
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \hbox (46.79616pt too wide) in paragraph at lines 8--16
+[][] 
+ []
+
+) [2]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\Intro/certificate.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--18
+
+ []
+
+) [3]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\Intro/Acknowledgements.tex") [4]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\Abstract/Abstract.tex") [5]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\thesis.toc"
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [6]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+)
+\tf@toc=\write4
+ [7]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\thesis.lof"
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+)
+\tf@lof=\write5
+ [8]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\thesis.lot")
+\tf@lot=\write6
+ [9]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\abbr.tex") [10]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\Intro/Chapter1.tex"
+CHAPTER I.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+
+Overfull \hbox (12.16994pt too wide) in paragraph at lines 9--16
+\OT1/cmr/m/n/12 OCS,EasyChair,CMT etc.Some Mod-ules of this Sys-tem: Ac-cep-tan
+ce,Bidding,Discussion
+ []
+
+
+Overfull \hbox (8.56708pt too wide) in paragraph at lines 9--16
+\OT1/cmr/m/n/12 up-load and re-viewer signup, as-sign re-view-ers and ad-vo-cat
+es, de-ci-sion and notification.[[]] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+Missing character: There is no â in font cmbx12!
+Missing character: There is no € in font cmbx12!
+Missing character: There is no ™ in font cmbx12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--24
+
+ []
+
+[1
+
+
+
+] [2] <pic/review.jpg, id=45, 543.53062pt x 462.22687pt>
+File: pic/review.jpg Graphic file (type jpg)
+
+<use pic/review.jpg>
+Package pdftex.def Info: pic/review.jpg used on input line 99.
+(pdftex.def)             Requested size: 361.34999pt x 307.31352pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 110.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 110.
+ [4 <G:/Proshanti 2015/Study/MSC/Final Thesis [Sayed Mohsin Reza]/Thesis Latex 
+format/RezaThesis Latex Format/pic/review.jpg>]
+Overfull \hbox (31.49045pt too wide) in paragraph at lines 139--152
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\Chap3/Chapter3.tex" [5] [6]
+CHAPTER II.
+<pic/seq1.jpg, id=61, 596.98032pt x 597.73312pt>
+File: pic/seq1.jpg Graphic file (type jpg)
+ <use pic/seq1.jpg>
+Package pdftex.def Info: pic/seq1.jpg used on input line 13.
+(pdftex.def)             Requested size: 433.62402pt x 216.80724pt.
+Missing character: There is no â in font cmbx12!
+Missing character: There is no € in font cmbx12!
+Missing character: There is no ™ in font cmbx12!
+ [7
+
+ <G:/Proshanti 2015/Study/MSC/Final Thesis [Sayed Mohsin Reza]/Thesis Latex for
+mat/RezaThesis Latex Format/pic/seq1.jpg>]
+<pic/acc.jpg, id=65, 588.69937pt x 678.28406pt>
+File: pic/acc.jpg Graphic file (type jpg)
+ <use pic/acc.jpg>
+Package pdftex.def Info: pic/acc.jpg used on input line 25.
+(pdftex.def)             Requested size: 433.62753pt x 433.61388pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [8 <G:/Proshanti 2015/Study/MSC/Final Thesis [Sayed Mohsin Reza]/Thesis Latex 
+format/RezaThesis Latex Format/pic/acc.jpg>]
+Missing character: There is no â in font cmbx12!
+Missing character: There is no € in font cmbx12!
+Missing character: There is no ™ in font cmbx12!
+ <pic/aca.jpg, id=69, 591.71063pt x 678.28406pt>
+File: pic/aca.jpg Graphic file (type jpg)
+
+<use pic/aca.jpg>
+Package pdftex.def Info: pic/aca.jpg used on input line 35.
+(pdftex.def)             Requested size: 433.63354pt x 505.8863pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmbx12!
+Missing character: There is no € in font cmbx12!
+Missing character: There is no ™ in font cmbx12!
+ <pic/track.jpg, id=70, 588.69937pt x 621.82312pt>
+File: pic/track.jpg Graphic file (type jpg)
+
+<use pic/track.jpg>
+Package pdftex.def Info: pic/track.jpg used on input line 44.
+(pdftex.def)             Requested size: 433.62753pt x 505.89421pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [9 <G:/Proshanti 2015/Study/MSC/Final Thesis [Sayed Mohsin Reza]/Thesis Latex 
+format/RezaThesis Latex Format/pic/aca.jpg>]
+<pic/reviewdiagram.jpg, id=75, 588.69937pt x 621.82312pt>
+File: pic/reviewdiagram.jpg Graphic file (type jpg)
+
+<use pic/reviewdiagram.jpg>
+Package pdftex.def Info: pic/reviewdiagram.jpg used on input line 55.
+(pdftex.def)             Requested size: 433.62753pt x 505.89421pt.
+ [10 <G:/Proshanti 2015/Study/MSC/Final Thesis [Sayed Mohsin Reza]/Thesis Latex
+ format/RezaThesis Latex Format/pic/track.jpg>])
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\Chap4/Chapter4.tex" [11 <G:/Proshanti 2015/Study/MS
+C/Final Thesis [Sayed Mohsin Reza]/Thesis Latex format/RezaThesis Latex Format/
+pic/reviewdiagram.jpg>]
+CHAPTER III.
+<pic/all.png, id=82, 1017.8025pt x 420.82219pt>
+File: pic/all.png Graphic file (type png)
+ <use pic/all.png>
+Package pdftex.def Info: pic/all.png used on input line 24.
+(pdftex.def)             Requested size: 361.34572pt x 216.81253pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no â in font cmbx12!
+Missing character: There is no € in font cmbx12!
+Missing character: There is no ™ in font cmbx12!
+<pic/authorm.png, id=83, 1015.54407pt x 462.22687pt>
+File: pic/authorm.png Graphic file (type png)
+ <use pic/authorm.png>
+Package pdftex.def Info: pic/authorm.png used on input line 38.
+(pdftex.def)             Requested size: 361.3497pt x 216.80937pt.
+
+[12
+
+] [13 <G:/Proshanti 2015/Study/MSC/Final Thesis [Sayed Mohsin Reza]/Thesis Late
+x format/RezaThesis Latex Format/pic/all.png> <G:/Proshanti 2015/Study/MSC/Fina
+l Thesis [Sayed Mohsin Reza]/Thesis Latex format/RezaThesis Latex Format/pic/au
+thorm.png>] <pic/authorhp.png, id=92, 1015.54407pt x 472.76625pt>
+File: pic/authorhp.png Graphic file (type png)
+
+<use pic/authorhp.png>
+Package pdftex.def Info: pic/authorhp.png used on input line 49.
+(pdftex.def)             Requested size: 361.34999pt x 168.21913pt.
+ <pic/review1.png, id=93, 1017.04968pt x 433.62pt>
+File: pic/review1.png Graphic file (type png)
+
+<use pic/review1.png>
+Package pdftex.def Info: pic/review1.png used on input line 60.
+(pdftex.def)             Requested size: 361.34999pt x 154.05858pt.
+ <pic/chairhome.png, id=94, 1017.8025pt x 472.01344pt>
+File: pic/chairhome.png Graphic file (type png)
+
+<use pic/chairhome.png>
+Package pdftex.def Info: pic/chairhome.png used on input line 73.
+(pdftex.def)             Requested size: 361.34572pt x 144.54367pt.
+ [14 <G:/Proshanti 2015/Study/MSC/Final Thesis [Sayed Mohsin Reza]/Thesis Latex
+ format/RezaThesis Latex Format/pic/authorhp.png> <G:/Proshanti 2015/Study/MSC/
+Final Thesis [Sayed Mohsin Reza]/Thesis Latex format/RezaThesis Latex Format/pi
+c/review1.png>]
+<pic/configuration.png, id=100, 1026.83624pt x 432.11438pt>
+File: pic/configuration.png Graphic file (type png)
+
+<use pic/configuration.png>
+Package pdftex.def Info: pic/configuration.png used on input line 84.
+(pdftex.def)             Requested size: 361.34999pt x 152.06648pt.
+ [15 <G:/Proshanti 2015/Study/MSC/Final Thesis [Sayed Mohsin Reza]/Thesis Latex
+ format/RezaThesis Latex Format/pic/chairhome.png> <G:/Proshanti 2015/Study/MSC
+/Final Thesis [Sayed Mohsin Reza]/Thesis Latex format/RezaThesis Latex Format/p
+ic/configuration.png>])
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\Chap5/Chapter5.tex"
+CHAPTER IV.
+)
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\thesis.bbl" [16
+
+]) [17
+
+]
+("G:\Proshanti 2015\Study\MSC\Final Thesis [Sayed Mohsin Reza]\Thesis Latex for
+mat\RezaThesis Latex Format\thesis.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11845 strings out of 493921
+ 192609 string characters out of 3147284
+ 278989 words of memory out of 3000000
+ 14862 multiletter control sequences out of 15000+200000
+ 11162 words of font info for 42 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 44i,16n,35p,916b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (27 pages, 781737 bytes).
+PDF statistics:
+ 130 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

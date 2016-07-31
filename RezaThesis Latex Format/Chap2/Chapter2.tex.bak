@@ -1,0 +1,83 @@
+\chapter{System Review}
+\section{System Review}
+
+In this arena, some applications are run sequentially. Some of them are – openconf, OCS,OpenWater etc.
+Some Modules of this System: Acceptance, Bidding, CAPTCHA, Form Fields, Discussion, File Type, Proceedings.\newline
+
+\textbf{OpenConf:} Install system, check configuration and enable modules, open submission, upload and reviewer signup, assign reviewers and advocates, decision and notification.\newline
+
+In OpenConf, there has no support to create multi-conference system,payment method,Website creation,A/R paper download option,sponsor tracking and speaker schedulingend\cite{ref1}.
+
+\textbf{OCS(Open Conference System):} Open Conference Systems (OCS) is a free Web publishing tool that will create a complete Web presence for your scholarly conference.OCS will allow you to:create a conference Web site,compose and send a call for papers,electronically accept paper and abstract submissions,allow paper submitters to edit their work,post conference proceedings and papers in a searchable format,post,if you wish,the original data sets,register participants,integrate post-conference online discussions.\newline
+
+In OCS, there has no support to create IEEE eCopyright,Website creation,A/R paper download option,sponsor tracking and speaker scheduling.\newline
+
+\textbf{OpenWater:} OpenWater Conference handles everything, from abstract collection to speaker scheduling, presentation slide management, online registration collection and sponsorship tracking. No matter what you need, you know where to find it.\newline
+
+In OCS, there has no support to create multi-conference system,IEEE eCopyright,payment method,Website creation,A/R paper download option.\newline
+
+Above all systems,there are some advantages and disadvantages.Such as:\newline
+
+\begin{center}
+\begin{table}[htbp]
+   \begin{tabular}{|c|c|c|c|}
+     \hline
+     % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+     Topics & OpenConf & OCS & OpenWater \\\hline
+     Make Submission & Y & Y & Y \\\hline
+     Allow Multiconference & N & Y & N \\\hline
+     Payment System & In free addition no support & Y & N \\\hline
+     Create Website  & N & N & N \\\hline
+     P/N Author Registration & N & N & N \\\hline
+     IEEE eCopyright & In free addition no support & N & N \\\hline
+     A/R paper Download option & N & N & N \\\hline
+     Program  Schedule Creation & Y & N & Y \\\hline
+     Online Registration & Y & Y & Y \\\hline
+     sponsorship tracking & N & N & Y \\
+     Make Submission & Y & Y & Y \\\hline
+     speaker scheduling & N & N & Y \\\hline
+     Program management with RFID & N & N & N \\\hline
+
+
+   \end{tabular}
+   \caption[Pros and Cons Existing System.]{Pros and Cons Existing System}
+	\label{tab:pros cons}
+
+  \end{table}
+  \end{center}
+
+
+\section{Proposed  System }
+Identify these problems, this proposed system target is to overcome those problems. Primarily, The Proposal entitled as IITProConf can do Peer-Review, Abstract and Conference Management. IITProConf is a free Web publishing tool that will create a complete Web presence for scholarly conference.
+IITProconf covers all aspects of online conference management and publishing, from setting up conference website to operational tasks such as submitting, reviewing, editing, publishing, archiving, and indexing of the conference papers.
+
+ IITProconf also helps to manage the people involved in organizing a conference, reviewers, and authors,notifying readers and registrants, and assisting with the correspondence. Additionally, Payment system module is added and free as open source to anyone. In existing all conference system there has no concept of RFID. Main featured of proposed system is helpful to program management with RFID technologies.\newline
+Below, there is an overview of the process IITProConf uses.
+\begin{center}
+\begin{table}[htbp]
+   \begin{tabular}{|c|c|c|c|c|c|}
+     \hline
+     % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+     Topics & S/A & Chair & Author & Reviewer & P/N \\\hline
+     Install and Config & N & Y & N &N &N \\\hline
+     Create Website & N & Y & N &N &N \\\hline
+     Open and Close Submissions& Y & N & N &N &N \\\hline
+     Sign-Up & N & N & Y &Y &Y \\\hline
+     Decision  and Notification & N & Y & N &N &N \\\hline
+     Control Conference Payment method & Y & N & N &N &N \\\hline
+     Assign  Reviewers & N & Y & N & N & N \\\hline
+     Open and close Reviewer Sign-In & N & Y & N & N & N \\\hline
+     Review Submission & N & N & N & Y & N \\\hline
+     Program management with RFID  & N & Y & N & N & N \\\hline
+   \end{tabular}
+   \caption[Proposed System Process.]{Proposed System Process}
+	\label{tab:system process}
+
+  \end{table}
+  \end{center}
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+\chapter{Conclusion and Future Plan}
+We tried our utmost to give a good shape of this program. There may be some limitations in this program. But we can declare from our position that it’s our best output in this limited time period.ProConf covers all aspects of online conference management and publishing, from setting up conference website to operational tasks such as submitting, reviewing, editing, publishing, archiving, and indexing of the conference papers.ProConf also helps to manage the people involved in organizing a conference, reviewers, and authors, notifying readers and registrants, and assisting with the correspondence
+In future, to increase the efficiency of this management system we include
+\begin{itemize}
+\item multiconference system
+\item program management with RFID
+\end{itemize}
+ Along with these, this “ProConf” can be more enriched by including software concept in it. So that it can be used  in Bangladesh as well as in other countries
+
+
+

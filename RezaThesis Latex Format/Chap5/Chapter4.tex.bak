@@ -1,0 +1,50 @@
+
+\section{Simulation Parameters}
+
+This section includes the simulation results for the proposed NCCCN by means of Monte-Carlo simulations. We consider all the wireless nodes use OFDM based transmission, the channel fading model is 3-Rayleigh-multipath, the number of subcarriers, i.e., $N=16$, $Q_{max}^i=Q_{max}$ and the distribution of noise power over all the subcarrier is same. The simulation is run for $5000$-times. Optimal power allocation (OPA) algorithm follows multilevel water-filling whereas sub-optimal power allocation (SUB) follows even power allocation. The power allocation of primary network can be either OPA or SUB whereas the power allocation in a NCCCN can also be either OPA or SUB.Thus the spectral efficiency of a $SU$ with respect to $PU$ depends on OPT/OPT; SUB/OPT; OPT/SUB and SUB/SUB. The simulation parameters for both NCCCN and CCN without NC are considered same for the fair comparison.
+
+\section{Discussion of the Results}
+
+Figure \ref{fig_3} shows the effect of $P_{max}$ on spectral efficiency for different constraint of $I_{max}$. When no maximum-interference constraint is imposed, i. e., $I_{max}=\infty$, the spectral efficiency of $SU$ is highest and follows logarithmic trend. On the other hand, when the maximum-interference temperature constraint is considered, i.e., $I_{max}=1/N$, the spectral efficiency of $SU$ follows the logarithmic trend for smaller value of $P_{max}$ but becomes flat for higher value of $P_{max}$ for all OPT/OPT; SUB/OPT; OPT/SUB and SUB/SUB cases. The maximum-interference temperature constraint imposes limit on maximum power allocation to avoid interference to the primary network. The dash-sign curves represent the spectral efficiency of the proposed network whereas the solid-sign curves represents the spectral efficiency of CCN without ANC. The spectral efficiency [bit-per-second/Hz] of the proposed NCCCN is better than that of CCN without ANC [14]. The ANC requires less radio resources compared to traditional CCN to finish a bi-directional communication. It is also found that the spectral efficiency of OPT/OPT is better than that of SUB/OPT; OPT/SUB; SUB/SUB for the interference limited case.
+
+Figure \ref{fig_4} shows the effect of $P_{max}$ on spectral efficiency for different constraint of $I_{ave}$. When no average-interference constraint is imposed, i. e., $I_{ave}=\infty$, the spectral efficiency of $SU$ is highest and follows logarithmic trend. On the other hand, when the average-interference temperature constraint is considered, i.e., $I_{ave}=1/N$, the spectral efficiency of $SU$ follows the logarithmic trend for smaller value of $P_{max}$ but becomes flat for higher value of $P_{max}$ for all OPT/OPT; SUB/OPT; OPT/SUB and SUB/SUB cases. The average-interference temperature constraint imposes limit on power allocation to avoid interference to the primary network. It is also found that the spectral efficiency of OPT/OPT is better than that of SUB/OPT; OPT/SUB; SUB/SUB for the interference limited case. The proposed NCCCN also performs better than that of CCN without ANC [13] in this case.
+
+Figures \ref{fig_5} and \ref{fig_6}  show the effect of $I_{max}$ on spectral efficiency considering $P_{max}$ and $P_{ave}$ constraints respectively. In terms of  spectral efficiency, the proposed NCCCN outperforms the CCN considered in [13].
+
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width=6in]{Figure/Fig3}
+\caption{Effect of $P_{max}$ on spectral efficiency considering $I_{max}$.}
+\label{fig_3}
+\end{figure}
+
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width=6in]{Figure/Fig4}
+\caption{Effect of $P_{max}$ on spectral efficiency considering $I_{ave}$.}
+\label{fig_4}
+\end{figure}
+
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width=6in]{Figure/Fig5}
+\caption{Effect of $I_{max}$ on spectral efficiency considering $P_{max}$.}
+\label{fig_5}
+\end{figure}
+
+\begin{figure}[!t]
+\centering
+\includegraphics[width=6in]{Figure/Fig6}
+\caption{Effect of $I_{max}$ on spectral efficiency considering $P_{ave}$.}
+\label{fig_6}
+\end{figure}
+
+%\begin{figure}[!t]
+%\centering
+%\includegraphics[width=3.7in]{8}
+%\caption{Effect of number of active SUs on the SUs capacity.}
+%\label{fig_7}
+%\end{figure}
